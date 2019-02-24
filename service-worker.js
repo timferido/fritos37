@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fritos37/precache-manifest.c8d9992c278dbaa83ecb6dd7b226f4fe.js"
+  "/fritos37/precache-manifest.6d28b3eee0b000b2b2cf838db1cab9a3.js"
 );
 
 workbox.clientsClaim();

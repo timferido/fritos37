@@ -1,14 +1,15 @@
 {
   "main.css": "/fritos37/static/css/main.a0eb1bbc.chunk.css",
-  "main.js": "/fritos37/static/js/main.be966053.chunk.js",
-  "main.js.map": "/fritos37/static/js/main.be966053.chunk.js.map",
+  "main.js": "/fritos37/static/js/main.ec90e320.chunk.js",
+  "main.js.map": "/fritos37/static/js/main.ec90e320.chunk.js.map",
   "runtime~main.js": "/fritos37/static/js/runtime~main.f9810c52.js",
   "runtime~main.js.map": "/fritos37/static/js/runtime~main.f9810c52.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/fritos37/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/fritos37/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/css/2.cedb4395.chunk.css": "/fritos37/static/css/2.cedb4395.chunk.css",
+  "static/js/2.9e3dd5d3.chunk.js": "/fritos37/static/js/2.9e3dd5d3.chunk.js",
+  "static/js/2.9e3dd5d3.chunk.js.map": "/fritos37/static/js/2.9e3dd5d3.chunk.js.map",
   "index.html": "/fritos37/index.html",
-  "precache-manifest.c8d9992c278dbaa83ecb6dd7b226f4fe.js": "/fritos37/precache-manifest.c8d9992c278dbaa83ecb6dd7b226f4fe.js",
+  "precache-manifest.6d28b3eee0b000b2b2cf838db1cab9a3.js": "/fritos37/precache-manifest.6d28b3eee0b000b2b2cf838db1cab9a3.js",
   "service-worker.js": "/fritos37/service-worker.js",
-  "static/css/main.a0eb1bbc.chunk.css.map": "/fritos37/static/css/main.a0eb1bbc.chunk.css.map",
-  "static/media/logo.svg": "/fritos37/static/media/logo.5d5d9eef.svg"
+  "static/css/2.cedb4395.chunk.css.map": "/fritos37/static/css/2.cedb4395.chunk.css.map",
+  "static/css/main.a0eb1bbc.chunk.css.map": "/fritos37/static/css/main.a0eb1bbc.chunk.css.map"
 }
